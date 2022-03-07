@@ -1,3 +1,5 @@
+HELLO, NICE TO MEET YOU!
+------------------------
 - 👋 Hi, I’m @Reina7027
 - 👀 I’m interested in data science.
 - 🌱 I am currently learning English for a TOEFL certification
