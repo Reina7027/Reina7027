@@ -1,4 +1,4 @@
-HELLO, NICE TO MEET YOU!👋✨
+HELLO, NICE TO MEET YOU! 🤗✨
 ----------------------------
 - 👋 Hi, I’m @Reina7027
 - 👀 I’m interested in data science.
